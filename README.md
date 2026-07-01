@@ -76,7 +76,7 @@ Specifically, you should display the following information:
 
 You should also display a total count for the number of users in your list.
 
-**Don't focus on visual polish.** Focus on the *states* the app and its data can be in, displaying the correct information, and how your technical decisions affect the experience of using the app your build.
+**Don't focus on visual polish.** Focus on the *states* the app and its data can be in, displaying the correct information, and how your technical decisions affect the experience of using the app you build.
 
 ## Bonus Tasks
 
